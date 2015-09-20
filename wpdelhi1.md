@@ -9,6 +9,9 @@ published: true
 
 *Gaurav Pareek*  
 {:.big}
+![](pictures/logo_ignition_head1.png)  
+![](pictures/logo_vmt.png)  
+
 
 ![](pictures/coverdelhi1.jpg)
 <!-- photo by Oliur Rahman, http://photos.oliur.com/ -->
