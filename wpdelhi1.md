@@ -10,18 +10,20 @@ published: true
 *Gaurav Pareek*  
 {:.big}
 
-![](pictures/cover.jpg)
+![](pictures/coverdelhi1.jpg)
 <!-- photo by Oliur Rahman, http://photos.oliur.com/ -->
 // Image will be replaced by something with sponsor logos
 
 
 ## The sponsors
-1. Names of sponsors
-2. Will be here
+1. Ignition
+2. Vega Moon Tech
 
 ## The organizers
-1. Names of organizers
-2. Will be here
+1. Gaurav Pareek
+2. Abhijeet Pratap
+3. Chandra Bhooshan
+4. Roopam Ghoshal
 
 ## WordPress and the GPL : The 4 freedoms
 
