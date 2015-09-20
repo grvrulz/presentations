@@ -5,18 +5,16 @@ published: true
 ---
 
 
-# Welcome to WordPress Delhi 
+# Welcome to WordPress Delhi {#Cover}
 
 *Gaurav Pareek*  
 {:.big}
-1. ![](pictures/logo_ignition_head1.png)  
-2. ![](pictures/logo_vmt.png)  
 
 
-<!-- ![](pictures/coverdelhi1.jpg)
+![](pictures/coverdelhi1.jpg)
 <!-- photo by Oliur Rahman, http://photos.oliur.com/ -->
 
-{:.shout}
+
 
 ## The sponsors
 1. Ignition
