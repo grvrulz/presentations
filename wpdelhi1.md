@@ -12,7 +12,7 @@ published: true
 
 ![](pictures/coverdelhi1.jpg)
 <!-- photo by Oliur Rahman, http://photos.oliur.com/ -->
-// Image will be replaced by something with sponsor logos
+
 
 
 ## The sponsors
