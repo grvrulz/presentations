@@ -9,8 +9,8 @@ published: true
 
 *Gaurav Pareek*  
 {:.big}
-![](pictures/logo_ignition_head1.png)  
-![](pictures/logo_vmt.png)  
+1. ![](pictures/logo_ignition_head1.png)  
+2. ![](pictures/logo_vmt.png)  
 
 
 ![](pictures/coverdelhi1.jpg)
