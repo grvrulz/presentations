@@ -8,7 +8,7 @@ published: true
 # Accessibility and the Free Desktop {#Cover}
 
 *Gaurav Pareek*  
-*@grvruulz*   
+*@real_grvrulz*   
 *+GauravPareek*  
 {:.big}
 
@@ -60,10 +60,10 @@ published: true
 ## **Q&A**
 
 ## More
-Find more info at [http://grv.rocks/guadec2016](http://grv.rocks/guadec2016)
-Find me on Github : [grvrulz](https://github.com/grvrulz)
-Follow me on twitter : [@grvruulz](https://twitter.com/grvruulz)
-Circle me on Google+ : [+Gaurav Pareek](https://plus.google.com/+GauravPareek)
+Find more info at [http://grv.rocks/guadec2016](http://grv.rocks/guadec2016)  
+Find me on Github : [grvrulz](https://github.com/grvrulz)  
+Follow me on twitter : [@real_grvrulz](https://twitter.com/real_grvrulz)  
+Circle me on Google+ : [+Gaurav Pareek](https://plus.google.com/+GauravPareek)  
 {:.shout}
 
 ## धन्यवाद

@@ -8,7 +8,7 @@ published: true
 # An Introduction to the WordPress REST API {#Cover}
 
 *Gaurav Pareek*  
-*@grvruulz*  
+*@real_grvrulz*  
 *+GauravPareek*
 {:.big}
 
@@ -63,7 +63,7 @@ published: true
 ## More
 Find more info at [http://grv.rocks/wcpune2015](http://grv.rocks/wcpune2015)  
 Find me on Github : [grvrulz](https://github.com/grvrulz)  
-Follow me on twitter : [@grvruulz](https://twitter.com/grvruulz)  
+Follow me on twitter : [@real_grvrulz](https://twitter.com/real_grvrulz)  
 Circle me on Google+ : [+Gaurav Pareek](https://plus.google.com/+GauravPareek)  
 {:.shout}
 
