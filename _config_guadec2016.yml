@@ -1,6 +1,6 @@
 safe: true
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 permalink: /:guadec2016
 relative_permalinks: false
 
