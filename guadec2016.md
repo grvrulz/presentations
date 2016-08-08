@@ -16,44 +16,42 @@ published: true
 <!-- photo by Rafael Publio, https://pixabay.com/en/users/rafaelpublio-2513513/ -->
 
 
-## Disability — Challenges.  
+## Disability — Challenges
 {:.shout}
+// One in every six persons in Asia and the Pacific has some form of disability: 650 million men, women and children. There are around 285 million visually impaired people in the world, out of which around 38-39 million are completely blind. One interesting fact is that over 15 million of blind people are from India, and similarly a large number is from different developing or undeveloped countries, and poor socioeconomic status.
 
 
-## What are we going to learn today?
+## What is the solution?
+{:.shout}
+// Obviously enough, computers and the internet can play a huge role in helping people gain knowledge, skills, and the means to lead a better life.
 
-1. …Features/use cases of a modern internet application
-2. …What is the WordPress REST API
-3. …How to leverage the REST API
+## What is accessibility?
 
-
-## **Use cases**
-
-## Consuming Content
-
-1. Modern, detached web frontends
-2. …Mobile apps
-3. …External integrations
-4. …Completely new and application specific admin panels
-5. …Monitoring dashboards
+1. …The state of being able to be easily accessed by anyone.
+2. …The technological means to reach such state.
+3. …The socioeconomic framework to reach such state.
 
 
-## Creating Content
+## **Where do we fall short**
+// Software and hardware that costs thousands of dollars. When people in rich countries can't afford the tech, how can we expect people in not-so-fortunate parts of the world to be able to, especially with the exchange rates.
 
-1. Desktop blog writing apps
-2. …Social networking apps
-3. …Bots
-4. …External integrations
-5. …Management tools
+## Role of Free Software
+
+1. …Easily accessible
+2. …Low cost
+3. …Possibility of improvement by community
+4. …Educational avenues
+5. …Independence from large foreign corporations
+6. …Most importantly, easy to fund and support for governments of under-developed economies.
 
 
-## The WordPress REST API
-- …All of these use cases possible
-- …Provides an extensible REST interface with a sane set of default endpoints
-- …Provides way more flexibility for content management
-- …Provides flexibility of interfaces to a common, familiar backend
 
-## Demo Time
+## What do we have
+- …Screen readers and TTS engines for the visually impaired
+- …Easier navigation and input methods for the motor impaired
+- …What more?
+
+## Examples
 {:.shout .cover #Picture}
 
 ![](pictures/picture.jpg)
@@ -62,7 +60,7 @@ published: true
 ## **Q&A**
 
 ## More
-Find more info at [http://grv.rocks/wcpune2015](http://grv.rocks/wcpune2015)
+Find more info at [http://grv.rocks/guadec2016](http://grv.rocks/guadec2016)
 Find me on Github : [grvrulz](https://github.com/grvrulz)
 Follow me on twitter : [@grvruulz](https://twitter.com/grvruulz)
 Circle me on Google+ : [+Gaurav Pareek](https://plus.google.com/+GauravPareek)
