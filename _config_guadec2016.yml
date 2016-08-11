@@ -5,6 +5,7 @@ permalink: /:guadec2016
 relative_permalinks: true
 
 default_theme: slab
+theme: slab
 default_width: 792
 default_lang: en
 default_body_class: list
