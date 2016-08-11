@@ -2,7 +2,7 @@ safe: true
 markdown: kramdown
 highlighter: rouge
 permalink: /:guadec2016
-relative_permalinks: false
+relative_permalinks: true
 
 default_theme: slab
 default_width: 792
