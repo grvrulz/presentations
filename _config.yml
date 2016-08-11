@@ -1,3 +1,3 @@
 safe: true
 permalink: /:index.html
-relative_permalinks: true
+relative_permalinks: false
