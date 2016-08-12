@@ -17,6 +17,9 @@ theme: slab
 <!-- photo by Rafael Publio, https://pixabay.com/en/users/rafaelpublio-2513513/ -->
 
 
+## [http://grv.rocks/guadec2016](http://grv.rocks/guadec2016)  
+{:.big}
+
 ## Disability — Challenges
 {:.shout}
 // One in every six persons in Asia and the Pacific has some form of disability: 650 million men, women and children. There are around 285 million visually impaired people in the world, out of which around 38-39 million are completely blind. One interesting fact is that over 15 million of blind people are from India, and similarly a large number is from different developing or undeveloped countries, and poor socioeconomic status.
@@ -67,5 +70,5 @@ Follow me on twitter : [@real_grvrulz](https://twitter.com/real_grvrulz)
 Circle me on Google+ : [+Gaurav Pareek](https://plus.google.com/+GauravPareek)  
 {:.shout}
 
-## धन्यवाद
-{:.shout .hindi #SeeMore}
+## Thank you
+{:.shout }
