@@ -16,6 +16,11 @@ theme: slab
 ![](pictures/accessibility.jpg)
 <!-- photo by Rafael Publio, https://pixabay.com/en/users/rafaelpublio-2513513/ -->
 
+## About me  
+* …From Jaipur, India.
+* …WordPress Developer, Free Software Advocate.
+* …Happiness Engineer at Automattic (WordPress.com).
+* …Working on accessibility awareness since 2011.
 
 ## [http://grv.rocks/guadec2016](http://grv.rocks/guadec2016)  
 {:.big}
